@@ -72,5 +72,5 @@ BlockChain_Technology/
 ---
 
 ## 🧑‍💻 Author
-**Arshee Fathima S**  
-GitHub: [ArsheeFathimaS](https://github.com/ArsheeFathimaS)
+**Arshee Fathima S ** 
+**Fasna PP **
