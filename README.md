@@ -70,7 +70,6 @@ BlockChain_Technology/
 - Foundation for more advanced blockchain applications  
 
 ---
-
 ## 🧑‍💻 Author
-**Arshee Fathima S ** 
-**Fasna PP **
+**Arshee Fathima S**  
+**Fasna PP**
